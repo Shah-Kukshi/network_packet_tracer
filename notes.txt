@@ -1,0 +1,6 @@
+for connecting two diff devices we use ethernet staright through cable , for connecting same devices we use crossover cable
+
+ipconfig - shows basic ip adress detail
+ipconfig /all - shows ip , physical  and all address ( its more detailed)
+// project 
+dns - to convert name to ip and to ip to name 
